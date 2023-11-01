@@ -1,0 +1,84 @@
+.header {
+    padding: 60px;
+    text-align: center;
+    
+    color: rgb(21, 24, 221);
+    font-size: 30px;
+
+  }
+
+  h1{
+    font-size: 50px;
+  }
+  h2{
+    font-size: 30px;
+    color: rgb(189, 226, 5);
+  }
+  
+
+    
+  
+
+
+  .p
+  {
+      color:rgb(227, 24, 51);
+      font-size: 20px;
+  }
+  
+  
+  .navbar  {
+    width: 100%;
+    justify-content: center;
+   
+    overflow: auto;
+
+    background-color: #caa2c0;
+    border: none;
+    color: rgb(20, 21, 21);
+    padding: 15px 32px;
+    text-align: center;
+    
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
+  .about-us{
+    padding: 60px;
+    text-align: center;
+    
+    color: rgb(95, 82, 114);
+    font-size: 20px;
+  }
+
+  .products{
+    padding: 60px;
+    text-align: center;
+    
+    color: rgb(99, 71, 120);
+    font-size: 20px;
+  }
+
+  .footer{
+    padding: 60px;
+    text-align: center;
+    
+    color: rgb(13, 225, 55);
+    font-size: 20px;
+  }
+
+  body {
+    background-color: rgb(38, 178, 225);
+  }
+  
+  .contact-us {
+    text-align: center;
+
+  }
+  
+  
+  
+  
+    
